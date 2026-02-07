@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Freed GB"
+title = "Freed GB - Porfolio"
 
 [params]
   displayName = "EN"
@@ -17,12 +17,12 @@ title = "Freed GB"
 [params.author]
   name = "Freed GB"
 #   email = "youremail@example.com"
-#   image = "img/blowfish_logo.png"
+  image = "img/freed_gb_logo.jpg"
 #   imageQuality = 96
-#   headline = "I'm only human"
-#   bio = "A little bit about you"
-#   links = [
-#     { email = "mailto:hello@your_domain.com" },
+  headline = "Student in Robotics engineering"
+  bio = "I love maths, physics and robots. I want to create a better world, a world where people and robots collaborate together, making life easier and more enjoyable for everyone 😄."
+  links = [
+    { email = "mailto:freednel.gbaguidi5@etu.univ-lorraine.fr" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
@@ -35,7 +35,7 @@ title = "Freed GB"
 #     { facebook = "https://facebook.com/username" },
 #     { flickr = "https://www.flickr.com/photos/username/" },
 #     { foursquare = "https://foursquare.com/username" },
-#     { github = "https://github.com/username" },
+      { github = "https://github.com/FreedGB" },
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },
@@ -45,7 +45,7 @@ title = "Freed GB"
 #     { keyoxide = "https://keyoxide.org/URI" },
 #     { kickstarter = "https://www.kickstarter.com/profile/username" },
 #     { lastfm = "https://lastfm.com/user/username" },
-#     { linkedin = "https://linkedin.com/in/username" },
+     { linkedin = "https://linkedin.com/in/freednel-gbaguidi" },
 #     { mastodon = "https://mastodon.instance/@username" },
 #     { matrix = "https://matrix.to/#/URI" },
 #     { medium = "https://medium.com/username" },
@@ -73,4 +73,4 @@ title = "Freed GB"
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
-#   ]
+   ]
