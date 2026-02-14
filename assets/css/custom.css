@@ -6,3 +6,11 @@
 html {
     font-family: font;
 }
+
+.gap-9 {
+    gap: calc(var(--spacing) * 9);
+}
+
+.self-flex-start {
+    align-self: flex-start;
+}
