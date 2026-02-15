@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+  style="margin:auto;background:transparent;display:block;z-index:1;position:relative"
+  width="1200" height="400" preserveAspectRatio="xMidYMid" viewBox="0 0 1200 400">
+  <defs>
+    <pattern id="tech-pattern" x="0" y="0" width="360" height="360" patternUnits="userSpaceOnUse">
+      <g transform="scale(1.4)">
+        <g>
+          <!-- Blue lines (from Spider-Man suit) -->
+          <line x1="240" x2="200" y1="120" y2="160" stroke-width="12" stroke="#2563eb" stroke-linecap="round" opacity="0.7"></line>
+          <line x1="240" x2="200" y1="-240" y2="-200" stroke-width="12" stroke="#2563eb" stroke-linecap="round" opacity="0.7"></line>
+          <line x1="480" x2="440" y1="-240" y2="-200" stroke-width="12" stroke="#2563eb" stroke-linecap="round" opacity="0.7"></line>
+          
+          <!-- Red accent lines (Spider-Man red) -->
+          <line x1="120" x2="80" y1="60" y2="100" stroke-width="14" stroke="#dc2626" stroke-linecap="round" opacity="0.6"></line>
+          <line x1="360" x2="320" y1="60" y2="100" stroke-width="14" stroke="#dc2626" stroke-linecap="round" opacity="0.6"></line>
+          <line x1="120" x2="80" y1="-300" y2="-260" stroke-width="14" stroke="#dc2626" stroke-linecap="round" opacity="0.6"></line>
+          
+          <!-- Pink/Magenta accents -->
+          <line x1="180" x2="140" y1="180" y2="220" stroke-width="10" stroke="#ec4899" stroke-linecap="round" opacity="0.5"></line>
+          <line x1="420" x2="380" y1="180" y2="220" stroke-width="10" stroke="#ec4899" stroke-linecap="round" opacity="0.5"></line>
+          <line x1="180" x2="140" y1="-180" y2="-140" stroke-width="10" stroke="#ec4899" stroke-linecap="round" opacity="0.5"></line>
+          
+          <!-- Cyan/Light blue lines -->
+          <line x1="280" x2="240" y1="40" y2="80" stroke-width="8" stroke="#06b6d4" stroke-linecap="round" opacity="0.6"></line>
+          <line x1="520" x2="480" y1="40" y2="80" stroke-width="8" stroke="#06b6d4" stroke-linecap="round" opacity="0.6"></line>
+          <line x1="280" x2="240" y1="-320" y2="-280" stroke-width="8" stroke="#06b6d4" stroke-linecap="round" opacity="0.6"></line>
+          
+          <!-- Dark blue diagonal lines -->
+          <line x1="160" x2="120" y1="240" y2="280" stroke-width="12" stroke="#1e3a8a" stroke-linecap="round" opacity="0.4"></line>
+          <line x1="400" x2="360" y1="240" y2="280" stroke-width="12" stroke="#1e3a8a" stroke-linecap="round" opacity="0.4"></line>
+          <line x1="160" x2="120" y1="-120" y2="-80" stroke-width="12" stroke="#1e3a8a" stroke-linecap="round" opacity="0.4"></line>
+          
+          <!-- Additional geometric patterns -->
+          <line x1="320" x2="280" y1="140" y2="180" stroke-width="10" stroke="#3b82f6" stroke-linecap="round" opacity="0.5"></line>
+          <line x1="560" x2="520" y1="140" y2="180" stroke-width="10" stroke="#3b82f6" stroke-linecap="round" opacity="0.5"></line>
+          
+          <!-- Small accent dots/circles -->
+          <circle cx="100" cy="100" r="4" fill="#dc2626" opacity="0.7"></circle>
+          <circle cx="340" cy="100" r="4" fill="#dc2626" opacity="0.7"></circle>
+          <circle cx="220" cy="220" r="3" fill="#ec4899" opacity="0.6"></circle>
+          <circle cx="460" cy="220" r="3" fill="#ec4899" opacity="0.6"></circle>
+          
+          <!-- Tech grid lines (subtle) -->
+          <line x1="200" x2="160" y1="200" y2="240" stroke-width="6" stroke="#6366f1" stroke-linecap="round" opacity="0.3"></line>
+          <line x1="440" x2="400" y1="200" y2="240" stroke-width="6" stroke="#6366f1" stroke-linecap="round" opacity="0.3"></line>
+          
+          <!-- Cross patterns -->
+          <line x1="260" x2="220" y1="80" y2="120" stroke-width="8" stroke="#0ea5e9" stroke-linecap="round" opacity="0.5"></line>
+          <line x1="500" x2="460" y1="80" y2="120" stroke-width="8" stroke="#0ea5e9" stroke-linecap="round" opacity="0.5"></line>
+          
+          <!-- Vertical accent lines -->
+          <line x1="140" x2="140" y1="140" y2="180" stroke-width="10" stroke="#2563eb" stroke-linecap="round" opacity="0.4"></line>
+          <line x1="380" x2="380" y1="140" y2="180" stroke-width="10" stroke="#2563eb" stroke-linecap="round" opacity="0.4"></line>
+          
+          <!-- Horizontal accent lines -->
+          <line x1="180" x2="220" y1="160" y2="160" stroke-width="8" stroke="#dc2626" stroke-linecap="round" opacity="0.5"></line>
+          <line x1="420" x2="460" y1="160" y2="160" stroke-width="8" stroke="#dc2626" stroke-linecap="round" opacity="0.5"></line>
+          
+          <!-- Additional diagonal patterns for depth -->
+          <line x1="300" x2="260" y1="260" y2="300" stroke-width="12" stroke="#1e40af" stroke-linecap="round" opacity="0.4"></line>
+          <line x1="540" x2="500" y1="260" y2="300" stroke-width="12" stroke="#1e40af" stroke-linecap="round" opacity="0.4"></line>
+          
+          <!-- Small connecting lines -->
+          <line x1="240" x2="220" y1="220" y2="240" stroke-width="6" stroke="#f472b6" stroke-linecap="round" opacity="0.5"></line>
+          <line x1="480" x2="460" y1="220" y2="240" stroke-width="6" stroke="#f472b6" stroke-linecap="round" opacity="0.5"></line>
+          
+          <!-- Tech circuit style lines -->
+          <line x1="130" x2="170" y1="130" y2="130" stroke-width="4" stroke="#06b6d4" stroke-linecap="round" opacity="0.6"></line>
+          <line x1="370" x2="410" y1="130" y2="130" stroke-width="4" stroke="#06b6d4" stroke-linecap="round" opacity="0.6"></line>
+          
+          <line x1="150" x2="150" y1="110" y2="150" stroke-width="4" stroke="#06b6d4" stroke-linecap="round" opacity="0.6"></line>
+          <line x1="390" x2="390" y1="110" y2="150" stroke-width="4" stroke="#06b6d4" stroke-linecap="round" opacity="0.6"></line>
+          
+          <!-- Additional depth layers -->
+          <line x1="80" x2="40" y1="280" y2="320" stroke-width="10" stroke="#3b82f6" stroke-linecap="round" opacity="0.3"></line>
+          <line x1="320" x2="280" y1="280" y2="320" stroke-width="10" stroke="#3b82f6" stroke-linecap="round" opacity="0.3"></line>
+          
+          <!-- More circuit patterns -->
+          <line x1="190" x2="210" y1="90" y2="90" stroke-width="5" stroke="#8b5cf6" stroke-linecap="round" opacity="0.5"></line>
+          <line x1="430" x2="450" y1="90" y2="90" stroke-width="5" stroke="#8b5cf6" stroke-linecap="round" opacity="0.5"></line>
+          
+          <!-- Connecting nodes -->
+          <circle cx="200" cy="90" r="3" fill="#8b5cf6" opacity="0.7"></circle>
+          <circle cx="440" cy="90" r="3" fill="#8b5cf6" opacity="0.7"></circle>
+          
+          <!-- Dynamic accent lines -->
+          <line x1="270" x2="230" y1="190" y2="230" stroke-width="9" stroke="#ef4444" stroke-linecap="round" opacity="0.5"></line>
+          <line x1="510" x2="470" y1="190" y2="230" stroke-width="9" stroke="#ef4444" stroke-linecap="round" opacity="0.5"></line>
+          
+          <!-- Web-like connections (subtle Spider-Man theme) -->
+          <line x1="120" x2="180" y1="120" y2="180" stroke-width="3" stroke="#94a3b8" stroke-linecap="round" opacity="0.3"></line>
+          <line x1="360" x2="420" y1="120" y2="180" stroke-width="3" stroke="#94a3b8" stroke-linecap="round" opacity="0.3"></line>
+          
+          <line x1="180" x2="120" y1="120" y2="180" stroke-width="3" stroke="#94a3b8" stroke-linecap="round" opacity="0.3"></line>
+          <line x1="420" x2="360" y1="120" y2="180" stroke-width="3" stroke="#94a3b8" stroke-linecap="round" opacity="0.3"></line>
+          
+          <!-- Animation transform -->
+          <animateTransform 
+            attributeName="transform" 
+            type="translate" 
+            values="0 0;-257 257" 
+            keyTimes="0;1" 
+            repeatCount="indefinite" 
+            dur="12s">
+          </animateTransform>
+        </g>
+      </g>
+    </pattern>
+  </defs>
+  <rect x="0" y="0" width="1200" height="400" fill="url(#tech-pattern)"></rect>
+</svg>
