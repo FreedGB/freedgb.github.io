@@ -5,6 +5,11 @@
 
 html {
     font-family: font;
+    font-size: 18px;
+}
+
+body {
+    max-width: 1200px;
 }
 
 .gap-9 {

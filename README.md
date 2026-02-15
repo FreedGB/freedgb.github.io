@@ -19,5 +19,12 @@ I use this README to document my progress through the project.
 
 ## Execution
 I've installed Hugo and Blowfish, then configured the theme by in the [documentation](https://blowfish.page/docs/).
+NB: Make sure the versions of Hugo and Blowfish are compatible.
 
-Since the basic homepage options doesn't satisfy me, I've decided to make a custom one, based on some references, and by following again the documentation. I created custom `html` (highly inpired by the `profile layout`), `css` files, and used a font named `DM Sans` I've found in my references.
+Since the basic homepage options doesn't satisfy me, I've decided to make a custom one, based on some references, and by following again the documentation.
+
+Custom files created :
+- `DMSans.ttf` : The font
+- `article-link/simple.html` : Article card
+- `custom.html` and `custom.css` : Homepage, inspired by the `profile layout`
+- `recent-articles/main.html` : Recent project list
