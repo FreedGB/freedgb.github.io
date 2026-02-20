@@ -3,11 +3,10 @@ I use this README to document my progress through the project.
 
 ## Features
 - [ ] Hi, my name is ..., I'm a robotics engineer (typing animation)
-- [ ] No profile picture
-- [ ] Projects list
-- [ ] A doc for each project
+- [x] Projects list
+- [x] A doc for each project
 - [ ] My education
-- [ ] Home, About, Projects pages
+- [x] Home, About, Projects pages
 - [ ] RPG system (stats, xp, difficulty D C B A S, etc.)
 - [ ] Show numbers of projects done
 
@@ -28,3 +27,5 @@ Custom files created :
 - `article-link/simple.html` : Article card
 - `custom.html` and `custom.css` : Homepage, inspired by the `profile layout`
 - `recent-articles/main.html` : Recent project list
+
+My background image was found on [Freepik](https://www.freepik.com/free-photo/watercolor-light-steel-blue-wallpaper-image_11303168.htm).
