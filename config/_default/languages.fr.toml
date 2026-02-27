@@ -1,12 +1,12 @@
 disabled = false
-languageCode = "en"
-languageName = "English"
-weight = 2
+languageCode = "fr"
+languageName = "French"
+weight = 1
 title = "Freed GB"
 
 [params]
-  displayName = "English"
-  isoCode = "en"
+  displayName = "Français"
+  isoCode = "fr"
   rtl = false
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
@@ -19,7 +19,7 @@ title = "Freed GB"
 #   email = "youremail@example.com"
   image = "img/freed_gb_logo.jpg"
 #   imageQuality = 96
-  headline = "Student in Robotics engineering"
+  headline = "Étudiant en cycle d'ingénieur en robotique"
   bio = "I love maths, physics and robots. I want to create a better world, a world where people and robots collaborate together, making life easier and more enjoyable for everyone 😄."
   links = [
     { email = "mailto:freednel.gbaguidi5@etu.univ-lorraine.fr" },

@@ -67,7 +67,12 @@
     {{ end }}
     <div class="author">
       <h1 class="text-4xl font-extrabold">
-        Hi, {{ .Site.Params.Author.name | default .Site.Title }} here.
+        {{ if eq .Site.Params.DisplayName "English" }}
+          Hi, {{ .Site.Params.Author.name | default .Site.Title }} here.
+        {{ end }}
+        {{ if eq .Site.Params.DisplayName "Français" }}
+          Salut, ici {{ .Site.Params.Author.name | default .Site.Title }}.
+        {{ end }}
       </h1>
       {{ with .Site.Params.Author.headline }}
         <h2 class="text-xl text-neutral-500 dark:text-neutral-400">
